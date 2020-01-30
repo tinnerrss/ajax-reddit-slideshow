@@ -1,0 +1,20 @@
+
+h1 {
+    color: hotpink;
+}
+#formholder {
+    width: 350px;
+    height: 50px;
+    margin: 150px auto 20px auto;
+}
+
+#pic-holder {
+    margin: 50px auto;
+    height: 500px;
+    width: 650px;
+}
+#searched-image {
+    height: 400px;
+    width: 600px;
+
+}
